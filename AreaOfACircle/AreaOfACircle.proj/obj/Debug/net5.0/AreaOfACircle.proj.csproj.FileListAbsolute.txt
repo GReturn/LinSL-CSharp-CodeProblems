@@ -1,0 +1,16 @@
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.exe
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.deps.json
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.runtimeconfig.json
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.runtimeconfig.dev.json
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.dll
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\ref\AreaOfACircle.proj.dll
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\bin\Debug\net5.0\AreaOfACircle.proj.pdb
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.csprojAssemblyReference.cache
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.AssemblyInfoInputs.cache
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.AssemblyInfo.cs
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.csproj.CoreCompileInputs.cache
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.dll
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\ref\AreaOfACircle.proj.dll
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.pdb
+E:\source\repos\AreaOfACircle\AreaOfACircle.proj\obj\Debug\net5.0\AreaOfACircle.proj.genruntimeconfig.cache
