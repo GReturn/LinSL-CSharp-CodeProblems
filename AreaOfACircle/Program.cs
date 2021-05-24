@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AreaOfACircle.proj
+namespace AreaOfACircle
 {
     class Program
     {
