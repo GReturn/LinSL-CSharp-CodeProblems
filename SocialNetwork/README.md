@@ -31,4 +31,4 @@ Hello!
 New post
 Hello!
 
-<mark>Recall the <strong><em>value</em></strong>keyword for set accessor.</mark>
+<mark>Recall the <strong><em>value</em></strong> keyword for set accessor.</mark>
