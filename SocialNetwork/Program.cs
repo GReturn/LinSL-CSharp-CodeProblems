@@ -16,12 +16,12 @@ namespace SocialNetwork
 
     class Post
     {
-        private string text;
+        private string _text;
         
         public string Text 
         {
-            get { return text; }
-            set { text = value; }
+            get { return _text; }
+            set { _text = value; }
         }
 
         public Post()
@@ -31,7 +31,7 @@ namespace SocialNetwork
 
         public void ShowPost()
         {
-            Console.WriteLine(text);
+            Console.WriteLine(_text);
         }
     }
 }
