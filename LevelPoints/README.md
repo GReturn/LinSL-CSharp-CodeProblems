@@ -19,7 +19,7 @@ for all passed levels.
 
 #### Details
 
-Level 1: 1 point
-Level 2: 2 points
-Level 3: 3 points
-Total: 1 + 2 + 3 = 6 points
+<b> Level 1 </b>: 1 point <br>
+<b> Level 2 </b>: 2 points <br>
+<b> Level 3 </b>: 3 points <br>
+<b> Total </b>: 1 + 2 + 3 = 6 points
