@@ -16,4 +16,4 @@ numbers that are multiples of 3 by "\*".
 
 #### Sample Output
 
-1 2 _ 4 5 _ 7
+1 2 * 4 5 * 7
