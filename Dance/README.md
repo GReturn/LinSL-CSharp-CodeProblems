@@ -18,12 +18,12 @@ Main().
 
 #### Sample Input
 
-Dave
-8
-Jessica
+Dave <br>
+8 <br>
+Jessica <br>
 7
 
 #### Sample Output
 
-Dave & Jessica
+Dave & Jessica <br>
 15
