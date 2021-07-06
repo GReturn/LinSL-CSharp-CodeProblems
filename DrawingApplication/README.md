@@ -9,10 +9,10 @@ method, and class Draw, which performs pencil drawing by implementing
 the IDraw interface. It outputs "Using pencil".
 
 Complete the given Brush and Spray classes by
-- inheriting them from class Draw.
-- implementing the StartDraw() method for each tool, in order to output
+\- inheriting them from class Draw.
+\- implementing the StartDraw() method for each tool, in order to output
 the following:
-    - "Using brush" for Brush, or
-    - "Using spray" for Spray
+    \- "Using brush" for Brush, or
+    \- "Using spray" for Spray
 
 The Draw objects and their method calls are provided in Main().
