@@ -35,9 +35,9 @@ namespace Dance
         public static DancerPoints operator+ (DancerPoints dancerObject1, DancerPoints dancerObject2)
         {
             string names = $"{dancerObject1.name} & {dancerObject2.name}";
-            int points = dancerObject1.points + dancerObject2.points;
+            int sumOfPoints = dancerObject1.points + dancerObject2.points;
 
-            DancerPoints total = new DancerPoints(names, points);
+            DancerPoints total = new DancerPoints(names, sumOfPoints);
             return total;
         }
     }
