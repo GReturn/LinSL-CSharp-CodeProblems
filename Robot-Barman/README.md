@@ -16,3 +16,5 @@ two
 
 #### Sample Output
 Please insert an integer
+
+> NOTE: Use DivideByZeroException for the first exception and FormatException for the second one.
