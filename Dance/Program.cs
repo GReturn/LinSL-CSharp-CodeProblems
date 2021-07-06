@@ -34,12 +34,11 @@ namespace Dance
         //overload the + operator
         public static DancerPoints operator+ (DancerPoints dancerObject1, DancerPoints dancerObject2)
         {
-            string name = ""; //TODO: add two names with ampersand
+            string names = $"{dancerObject1.name} & {dancerObject2.name}";
             int points = dancerObject1.points + dancerObject2.points;
 
-            DancerPoints total = new DancerPoints(name, points);
+            DancerPoints total = new DancerPoints(names, points);
             return total;
         }
-
     }
 }
