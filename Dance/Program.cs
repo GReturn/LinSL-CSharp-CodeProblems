@@ -15,7 +15,7 @@ namespace Dance
             DancerPoints dancer1 = new DancerPoints(name1, points1);
             DancerPoints dancer2 = new DancerPoints(name2, points2);
 
-            DancerPoints total; // =dancer1 + dancer2
+            DancerPoints total = dancer1 + dancer2;
             Console.WriteLine(total.name);
             Console.WriteLine(total.points);
         }
@@ -32,6 +32,14 @@ namespace Dance
         }
 
         //overload the + operator
+        public static DancerPoints operator+ (DancerPoints dancerObject1, DancerPoints dancerObject2)
+        {
+            string name = ""; //TODO: add two names with ampersand
+            int points = dancerObject1.points + dancerObject2.points;
+
+            DancerPoints total = new DancerPoints(name, points);
+            return total;
+        }
 
     }
 }
