@@ -35,14 +35,22 @@ namespace DrawingApplication
     }
 
     // inherit this class from the class Draw
-    class Brush
+    class Brush : Draw
     {
         // implent the StartDraw() method.
+        public override void StartDraw()
+        {
+            Console.WriteLine("Using brush");
+        }
     }
 
     // inherit this class from the class Draw
-    class Spray
+    class Spray : Draw
     {
         // implent the StartDraw() method.
+        public override void StartDraw()
+        {
+            Console.WriteLine("Using spray");
+        }
     }
 }
