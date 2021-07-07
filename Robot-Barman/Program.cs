@@ -22,7 +22,7 @@ namespace SoloLearn
              * 1. DivideByZeroException => "At least 1 shelf"
              * 2. FormatException => "Please insert an integer"
             */
-            catch (DivideByZeroException e)
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("At least 1 shelf");
             }
