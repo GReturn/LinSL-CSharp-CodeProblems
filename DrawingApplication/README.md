@@ -8,11 +8,11 @@ The program you are given declares an IDraw with the StartDraw()
 method, and class Draw, which performs pencil drawing by implementing
 the IDraw interface. It outputs "Using pencil".
 
-Complete the given Brush and Spray classes by
-\- inheriting them from class Draw.
+Complete the given Brush and Spray classes by <br>
+\- inheriting them from class Draw. <br>
 \- implementing the StartDraw() method for each tool, in order to output
-the following:
-    \- "Using brush" for Brush, or
+the following: <br>
+    \- "Using brush" for Brush, or <br>
     \- "Using spray" for Spray
 
 The Draw objects and their method calls are provided in Main().
