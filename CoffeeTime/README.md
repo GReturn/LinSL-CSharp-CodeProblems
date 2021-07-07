@@ -9,11 +9,11 @@ Write a program to discount all of the prices and output a new price list in the
 10
 
 #### Sample Output
-Americano: 45
-Latte: 63
-Flat White: 54
-Espresso: 54
-Cappuccino: 72
+Americano: 45 <br>
+Latte: 63 <br>
+Flat White: 54 <br>
+Espresso: 54 <br>
+Cappuccino: 72 <br>
 Mocha: 81
 
 > NOTE: Use coffee.Keys.ToArray() inside the foreach loop.
