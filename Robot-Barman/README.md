@@ -8,6 +8,7 @@ Complete the program to evenly distribute the drinks on shelves: by dividing the
 The program must also, handle those two possible problems: <br>
 1. the divider (the number of shelves) should never be zero <br>
 2. both inputs should be integers. <br>
+
 For the first exception, the program should output "At least 1 shelf" and for the second, "Please insert an integer".
 
 #### Sample Input
